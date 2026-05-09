@@ -51,5 +51,5 @@
 ## 📄 Project Resources
 
 - [Project Presentation](./Image/Car-Game.pdf)
-- [Project UML](./Image/Car-Game-UML.png)
+- ![Project UML](./Image/Car-Game-UML.png)
 - [Play Video]
