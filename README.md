@@ -73,4 +73,4 @@
 [![Watch the gameplay video](https://img.youtube.com/vi/RStUsA7Xx6k/maxresdefault.jpg)](https://youtu.be/RStUsA7Xx6k)
 
 - **Goggle Drive**
-[Goggle Drive] (https://drive.google.com/drive/folders/1y6CwHdgqR_MgdEvxoiEjy8reGpqzKgWq?usp=sharing)
+[Goggle Drive](https://drive.google.com/drive/folders/1y6CwHdgqR_MgdEvxoiEjy8reGpqzKgWq?usp=sharing)
