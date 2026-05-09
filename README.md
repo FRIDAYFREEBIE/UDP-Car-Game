@@ -50,6 +50,22 @@
 
 ## 📄 Project Resources
 
-- [Project Presentation](./Image/Car-Game.pdf)
-- ![Project UML](./Image/Car-Game-UML.png)
-- [Play Video]
+- **Project Presentation**
+![Slide1](./Image/Slide1.png)
+![Slide2](./Image/Slide2.png)
+![Slide3](./Image/Slide3.png)
+![Slide4](./Image/Slide4.png)
+![Slide5](./Image/Slide5.png)
+![Slide6](./Image/Slide6.png)
+![Slide7](./Image/Slide7.png)
+![Slide8](./Image/Slide8.png)
+![Slide9](./Image/Slide9.png)
+![Slide10](./Image/Slide10.png)
+![Slide11](./Image/Slide11.png)
+![Slide12](./Image/Slide12.png)
+
+- **Project UML**
+![Project UML](./Image/Car-Game-UML.png)
+
+- **Project Video**
+[![Watch the gameplay video](https://img.youtube.com/vi/RStUsA7Xx6k/maxresdefault.jpg)](https://youtu.be/RStUsA7Xx6k)
