@@ -50,7 +50,7 @@
 
 ## 📄 Project Resources
 
-- **Project Presentation**
+**Project Presentation**
 ![Slide1](./Image/Slide1.png)
 ![Slide2](./Image/Slide2.png)
 ![Slide3](./Image/Slide3.png)
@@ -65,11 +65,16 @@
 ![Slide12](./Image/Slide12.png)
 
 
-- **Project UML**
+**Project UML**
 ![Project UML](./Image/Car-Game-UML.png)
 
 
-- **Project Video (YouTube)**
-[![Watch the gameplay video](https://img.youtube.com/vi/RStUsA7Xx6k/maxresdefault.jpg)](https://youtu.be/RStUsA7Xx6k)
+**Project Video (YouTube)**
+<p align="center">
+  <a href="https://youtu.be/RStUsA7Xx6k">
+    <img src="https://img.youtube.com/vi/RStUsA7Xx6k/maxresdefault.jpg" width="500">
+  </a>
+</p>
 
-- [**Goggle Drive**](https://drive.google.com/drive/folders/1y6CwHdgqR_MgdEvxoiEjy8reGpqzKgWq?usp=sharing)
+
+[**Goggle Drive**](https://drive.google.com/drive/folders/1y6CwHdgqR_MgdEvxoiEjy8reGpqzKgWq?usp=sharing)
