@@ -59,29 +59,29 @@
 
 
 **Project Presentation**
-<img src="./Images/Slide1.png" width="700"/>
+<img src="./Image/Slide1.png" width="700"/>
 
-<img src="./Images/Slide2.png" width="700"/>
+<img src="./Image/Slide2.png" width="700"/>
 
-<img src="./Images/Slide3.png" width="700"/>
+<img src="./Image/Slide3.png" width="700"/>
 
-<img src="./Images/Slide4.png" width="700"/>
+<img src="./Image/Slide4.png" width="700"/>
 
-<img src="./Images/Slide5.png" width="700"/>
+<img src="./Image/Slide5.png" width="700"/>
 
-<img src="./Images/Slide6.png" width="700"/>
+<img src="./Image/Slide6.png" width="700"/>
 
-<img src="./Images/Slide7.png" width="700"/>
+<img src="./Image/Slide7.png" width="700"/>
 
-<img src="./Images/Slide8.png" width="700"/>
+<img src="./Image/Slide8.png" width="700"/>
 
-<img src="./Images/Slide9.png" width="700"/>
+<img src="./Image/Slide9.png" width="700"/>
 
-<img src="./Images/Slide10.png" width="700"/>
+<img src="./Image/Slide10.png" width="700"/>
 
-<img src="./Images/Slide11.png" width="700"/>
+<img src="./Image/Slide11.png" width="700"/>
 
-<img src="./Images/Slide12.png" width="700"/>
+<img src="./Image/Slide12.png" width="700"/>
 
 **Project UML**
 ![Project UML](./Image/Car-Game-UML.png)
