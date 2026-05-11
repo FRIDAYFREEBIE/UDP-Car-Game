@@ -84,7 +84,7 @@
 <img src="./Image/Slide12.png" width="700"/>
 
 **Project UML**
-![Project UML](./Image/Car-Game-UML.png)
 
+<img src="./Image/Car-Game-UML.png" width="700"/>
 
 [**Goggle Drive**](https://drive.google.com/drive/folders/1y6CwHdgqR_MgdEvxoiEjy8reGpqzKgWq?usp=sharing)
